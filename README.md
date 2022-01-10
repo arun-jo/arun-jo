@@ -2,7 +2,7 @@
 - 👀 I’m interested in python
 - 🌱 I’m currently learning Testing
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me (insta)... @cyb_o_rg 
+
 
 <!---
 arun-jo/arun-jo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
