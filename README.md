@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @arun-jose
-- 👀 I’m interested in python
-- 🌱 I’m currently learning Testing
-- 💞️ I’m looking to collaborate on ...
+- I'm a software tester.
 
 
 <!---
